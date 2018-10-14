@@ -9,7 +9,7 @@ const _USD_TO_YEN: f64 = 113.7264;
 const _USD_TO_CHF: f64 = 0.9973;
 
 fn main() {
-    println!("Welcome to the CurrencyEXchange. We offer currency swapping between six currencies, as follows:\n");
+    println!("Welcome to the CurrencyExchange. We offer currency swapping between six currencies, as follows:\n");
 
     println!("US Dollar: USD");
     println!("EU Euro: EUR");
