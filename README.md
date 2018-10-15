@@ -28,7 +28,7 @@ This list is from a guy on reddit. Sorry I can't find your name again.
 ******
 ```
 
-5. [] Print out a triangle from smallest to largest, skipping even rows. User inputs largest number, eg:
+5. [x] Print out a triangle from smallest to largest, skipping even rows. User inputs largest number, eg:
 
 ```
 *
